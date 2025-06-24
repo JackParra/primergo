@@ -1,11 +1,14 @@
-package main
+// package main
 
-import (
-	"fmt"
+// import (
+// 	"fmt"
 
-	"github.com/google/uuid"
-)
+// 	"github.com/google/uuid"
+// )
 
-func main() {
-	fmt.Println(uuid.New().String())
-}
+// func main() {
+// 	fmt.Println(uuid.New().String())
+// 	fmt.Println("INCIO DE LA GUIA")
+// 	estructuras()
+// 	recibir()
+// }
